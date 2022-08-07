@@ -1,0 +1,3 @@
+This is my version of an Intranet Chess game.  It does not have AI in it but it does check for valid moves.  Part 2 is required and has the default chess board in it.  Other chess boards are in parts 3 thru 6.  Source code is included.
+
+To play the chess game, click on the NEW button.  Click on the chess piece you wish to move.  The box around the chess piece will turn red.  Click on the square you wish to move to.
